@@ -1,3 +1,3 @@
 # Python-Program
 
-## Basic python problem
+## Basic Python Problem
